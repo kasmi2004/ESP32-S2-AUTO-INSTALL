@@ -76,7 +76,7 @@ USBCDC USBSerial;
 
 //create access point
 boolean startAP = true;
-String AP_SSID = "PS4_WEB_AP";
+String AP_SSID = "PS4_KASMI";
 String AP_PASS = "";
 IPAddress Server_IP(10,1,1,1);
 IPAddress Subnet_Mask(255,255,255,0);
